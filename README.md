@@ -1,2 +1,2 @@
 # PP2
-New repository
+pp2 repository for practice 
