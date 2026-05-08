@@ -2,7 +2,7 @@ import psycopg2
 
 DB_NAME = "snake_db"
 USER = "postgres"
-PASSWORD = "your_password"
+PASSWORD = "al2007ua"
 HOST = "localhost"
 
 def connect():

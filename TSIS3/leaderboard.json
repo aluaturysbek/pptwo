@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name": "Player",
+        "score": 24,
+        "distance": 672
+    },
+    {
+        "name": "Player",
+        "score": 3,
+        "distance": 124
+    },
+    {
+        "name": "Player",
+        "score": 0,
+        "distance": 98
+    }
+]
